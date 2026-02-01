@@ -1,5 +1,5 @@
 import React from 'react';
-import { projects } from '../data/portfoliodata.js';
+import { projects } from '../data/portfolioData.js';
 
 const Projects = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Linkedin, Github, Twitter } from 'lucide-react';
-import { personalInfo } from '../data/portfoliodata.js';
+import { personalInfo } from '../data/portfolioData.js';
 
 const Footer = () => {
   const iconComponents = {
