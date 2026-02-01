@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Home, User, Briefcase, Code, Zap, Mail } from 'lucide-react';
-import { personalInfo } from '../data/portfolioData';
+import { personalInfo } from '../data/Portfoliodata.js';
 
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

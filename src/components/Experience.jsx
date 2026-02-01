@@ -1,5 +1,5 @@
 import React from 'react';
-import { experiences } from '../data/portfolioData';
+import { experiences } from '../data/portfolioData.js';
 
 const Experience = () => {
   return (
