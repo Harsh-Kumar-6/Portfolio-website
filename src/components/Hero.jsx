@@ -8,7 +8,8 @@ const Hero = () => {
         <div className="hero-text">
           <h1>Building Digital Experiences That Matter</h1>
           <div className="subtitle">{personalInfo.title}</div>
-          <p>{personalInfo.description}</p>
+          <p>building scalable and intelligent systems.</p>
+
           <div className="cta-buttons">
             <a href="#projects" className="btn btn-primary">View My Work</a>
             <a href="#contact" className="btn btn-secondary">Let's Connect</a>
