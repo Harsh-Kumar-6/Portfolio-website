@@ -8,7 +8,7 @@ export const personalInfo = {
   location: "India",
   email: "harshkumar2662005@gmail.com",
   phone: "+91 9341933518",
-  cvLink: "https://drive.google.com/file/d/1gmlTULLw2ahO89VS6wWvlBwvgzaFdfnw/view?usp=sharing",
+  cvLink: "https://drive.google.com/file/d/1bl8pGDp5Nciib0bkRVKgDuFVOqtJEceb/view?usp=sharing",
   social: {
     Github: "https://github.com/Harsh-Kumar-6",
     Linkedin: "https://www.linkedin.com/in/harsh-kumar-809881329/",
